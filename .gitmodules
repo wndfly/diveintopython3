@@ -1,0 +1,3 @@
+[submodule "progit"]
+	path = progit
+	url = git@github.com:wndfly/progit.git
